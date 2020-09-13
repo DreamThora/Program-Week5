@@ -140,7 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="5-1 bornlab pyramid2.cpp" />
-    <ClCompile Include="5-2 sum of matrix 2x2cpp.cpp" />
+    <ClCompile Include="5-2 rhombus.cpp" />
     <ClCompile Include="5-3 ข้อ6cpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
