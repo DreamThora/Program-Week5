@@ -21,5 +21,8 @@
     <ClCompile Include="5-2 sum of matrix 2x2cpp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5-3 ข้อ6cpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
